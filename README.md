@@ -53,7 +53,17 @@ The project follows Google's *Your first Flutter app* codelab. It is a random wo
 
 ## Screenshots
 
-Screenshots of the Home page and Favorites page will be added here.
+
+## Screenshots
+
+### Home Page
+
+![Flutter Namer App Home Page](screenshots/home.png)
+
+### Favorites Page
+
+![Flutter Namer App Favorites Page](screenshots/favorites.png)
+
 
 ## What I Learned
 
